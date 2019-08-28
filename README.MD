@@ -1,0 +1,1 @@
+https://thoughtbot.com/blog/setting-up-webpack-for-react-and-hot-module-replacement
